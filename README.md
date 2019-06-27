@@ -40,3 +40,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # recordlifes.github.io
 # recordlifes.github.io
 # recordlifes.github.io
+# easyscreenshots.github.io
