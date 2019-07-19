@@ -60,3 +60,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # doccodescan.github.io
 # colordrawings.github.io
 # hourglassfidgets.github.io
+# colorblurs.github.io
